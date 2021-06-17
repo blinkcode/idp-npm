@@ -1,0 +1,19 @@
+{
+  "name": "@types/idp",
+  "version": "0.0.1",
+  "description": "idp代码提示",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popingblink/idp-npm.git"
+  },
+  "author": "blinkcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popingblink/idp-npm/issues"
+  },
+  "homepage": "https://github.com/popingblink/idp-npm#readme"
+}
