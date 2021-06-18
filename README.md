@@ -7,7 +7,7 @@ IDP采用原生js, 对于已经用惯了TypeScript开发的来说，没有代码
 
 - 该提示目前能涵盖开发过程中使用的大部分变量和方法， 实现代码的快速编写
 
-> 如果你想体验更快的书写体验，这里还提供了基于vscode的idp的插件，详情见 [vscode-idp插件](http://baidu.com)
+> 如果你想体验更快的书写体验，这里还提供了基于vscode的idp的插件，详情见 [vscode-idp插件](https://marketplace.visualstudio.com/items?itemName=blink.idp-snippets)
 
 ![image](https://raw.githubusercontent.com/popingblink/idp-npm/master/idp.snippet.gif)
 ## 不足
